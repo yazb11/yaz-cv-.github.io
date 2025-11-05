@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Local development server
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log
+*.tmp
